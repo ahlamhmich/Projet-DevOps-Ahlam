@@ -57,7 +57,7 @@ L’application Node.js affiche un message simple et sert de support pour tester
 
 
 
-## ▶️ Lancer l’application Node.js
+##  Lancer l’application Node.js
 ```bash
 npm install
 node server.js
